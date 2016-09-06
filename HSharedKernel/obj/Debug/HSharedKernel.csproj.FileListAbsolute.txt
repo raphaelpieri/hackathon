@@ -1,0 +1,5 @@
+F:\projetos\dotnet\Hackathon\HSharedKernel\bin\Debug\HSharedKernel.dll
+F:\projetos\dotnet\Hackathon\HSharedKernel\bin\Debug\HSharedKernel.pdb
+F:\projetos\dotnet\Hackathon\HSharedKernel\obj\Debug\HSharedKernel.csprojResolveAssemblyReference.cache
+F:\projetos\dotnet\Hackathon\HSharedKernel\obj\Debug\HSharedKernel.dll
+F:\projetos\dotnet\Hackathon\HSharedKernel\obj\Debug\HSharedKernel.pdb

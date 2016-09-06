@@ -1,0 +1,7 @@
+F:\projetos\dotnet\Hackathon\HDomain\bin\Debug\HDomain.dll
+F:\projetos\dotnet\Hackathon\HDomain\bin\Debug\HDomain.pdb
+F:\projetos\dotnet\Hackathon\HDomain\bin\Debug\HSharedKernel.dll
+F:\projetos\dotnet\Hackathon\HDomain\bin\Debug\HSharedKernel.pdb
+F:\projetos\dotnet\Hackathon\HDomain\obj\Debug\HDomain.csprojResolveAssemblyReference.cache
+F:\projetos\dotnet\Hackathon\HDomain\obj\Debug\HDomain.dll
+F:\projetos\dotnet\Hackathon\HDomain\obj\Debug\HDomain.pdb

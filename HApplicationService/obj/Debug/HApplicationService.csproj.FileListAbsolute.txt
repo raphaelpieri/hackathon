@@ -1,0 +1,13 @@
+F:\projetos\dotnet\Hackathon\HApplicationService\bin\Debug\HApplicationService.dll
+F:\projetos\dotnet\Hackathon\HApplicationService\bin\Debug\HApplicationService.pdb
+F:\projetos\dotnet\Hackathon\HApplicationService\bin\Debug\HDomain.dll
+F:\projetos\dotnet\Hackathon\HApplicationService\bin\Debug\HInfrastructure.dll
+F:\projetos\dotnet\Hackathon\HApplicationService\bin\Debug\HSharedKernel.dll
+F:\projetos\dotnet\Hackathon\HApplicationService\bin\Debug\EntityFramework.dll
+F:\projetos\dotnet\Hackathon\HApplicationService\bin\Debug\HDomain.pdb
+F:\projetos\dotnet\Hackathon\HApplicationService\bin\Debug\HInfrastructure.pdb
+F:\projetos\dotnet\Hackathon\HApplicationService\bin\Debug\HSharedKernel.pdb
+F:\projetos\dotnet\Hackathon\HApplicationService\bin\Debug\EntityFramework.xml
+F:\projetos\dotnet\Hackathon\HApplicationService\obj\Debug\HApplicationService.csprojResolveAssemblyReference.cache
+F:\projetos\dotnet\Hackathon\HApplicationService\obj\Debug\HApplicationService.dll
+F:\projetos\dotnet\Hackathon\HApplicationService\obj\Debug\HApplicationService.pdb

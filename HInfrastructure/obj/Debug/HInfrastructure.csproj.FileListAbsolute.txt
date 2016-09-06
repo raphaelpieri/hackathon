@@ -1,0 +1,12 @@
+F:\projetos\dotnet\Hackathon\HInfrastructure\bin\Debug\HInfrastructure.dll.config
+F:\projetos\dotnet\Hackathon\HInfrastructure\bin\Debug\HInfrastructure.dll
+F:\projetos\dotnet\Hackathon\HInfrastructure\bin\Debug\HInfrastructure.pdb
+F:\projetos\dotnet\Hackathon\HInfrastructure\bin\Debug\EntityFramework.dll
+F:\projetos\dotnet\Hackathon\HInfrastructure\bin\Debug\EntityFramework.SqlServer.dll
+F:\projetos\dotnet\Hackathon\HInfrastructure\bin\Debug\HDomain.dll
+F:\projetos\dotnet\Hackathon\HInfrastructure\bin\Debug\HDomain.pdb
+F:\projetos\dotnet\Hackathon\HInfrastructure\bin\Debug\EntityFramework.xml
+F:\projetos\dotnet\Hackathon\HInfrastructure\bin\Debug\EntityFramework.SqlServer.xml
+F:\projetos\dotnet\Hackathon\HInfrastructure\obj\Debug\HInfrastructure.csprojResolveAssemblyReference.cache
+F:\projetos\dotnet\Hackathon\HInfrastructure\obj\Debug\HInfrastructure.dll
+F:\projetos\dotnet\Hackathon\HInfrastructure\obj\Debug\HInfrastructure.pdb

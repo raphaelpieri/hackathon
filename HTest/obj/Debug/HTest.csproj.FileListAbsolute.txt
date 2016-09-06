@@ -1,0 +1,6 @@
+F:\projetos\dotnet\Hackathon\HTest\bin\Debug\HTest.dll
+F:\projetos\dotnet\Hackathon\HTest\bin\Debug\HTest.pdb
+F:\projetos\dotnet\Hackathon\HTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+F:\projetos\dotnet\Hackathon\HTest\obj\Debug\HTest.csprojResolveAssemblyReference.cache
+F:\projetos\dotnet\Hackathon\HTest\obj\Debug\HTest.dll
+F:\projetos\dotnet\Hackathon\HTest\obj\Debug\HTest.pdb
