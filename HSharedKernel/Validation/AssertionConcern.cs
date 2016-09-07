@@ -80,6 +80,12 @@
             return (!(value1 >= value2)) ?
                 new DomainNotification("AssertArgumentTrue", message) : null;
         }
+
+        public static DomainNotification AssertAreEquals(int value, int match, string message)
+        {
+            return (!(value == match)) ?
+                new DomainNotification("AssertArgumentTrue", message) : null;
+        }
     }
 }
 

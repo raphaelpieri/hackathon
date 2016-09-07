@@ -42,6 +42,8 @@
   <ItemGroup>
     <Compile Include="ApplicationService.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="ServiceProfessor.cs" />
+    <Compile Include="ServicoPai.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\HDomain\HDomain.csproj">

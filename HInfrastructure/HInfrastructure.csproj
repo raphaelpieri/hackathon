@@ -50,8 +50,55 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="IUnitOfWork.cs" />
+    <Compile Include="Migrations\201609070615305_ProfessorAndPai.cs" />
+    <Compile Include="Migrations\201609070615305_ProfessorAndPai.Designer.cs">
+      <DependentUpon>201609070615305_ProfessorAndPai.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201609070726015_CriandoMateriaTurmaETurmaMateria.cs" />
+    <Compile Include="Migrations\201609070726015_CriandoMateriaTurmaETurmaMateria.Designer.cs">
+      <DependentUpon>201609070726015_CriandoMateriaTurmaETurmaMateria.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201609070955080_CriandoAlunos.cs" />
+    <Compile Include="Migrations\201609070955080_CriandoAlunos.Designer.cs">
+      <DependentUpon>201609070955080_CriandoAlunos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201609071027001_CriandoAlunosMateriaTurma.cs" />
+    <Compile Include="Migrations\201609071027001_CriandoAlunosMateriaTurma.Designer.cs">
+      <DependentUpon>201609071027001_CriandoAlunosMateriaTurma.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201609071109436_CriandoTarefa.cs" />
+    <Compile Include="Migrations\201609071109436_CriandoTarefa.Designer.cs">
+      <DependentUpon>201609071109436_CriandoTarefa.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201609071123116_AlterandoTarefa.cs" />
+    <Compile Include="Migrations\201609071123116_AlterandoTarefa.Designer.cs">
+      <DependentUpon>201609071123116_AlterandoTarefa.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201609071131262_CriandoTarefasAlunos.cs" />
+    <Compile Include="Migrations\201609071131262_CriandoTarefasAlunos.Designer.cs">
+      <DependentUpon>201609071131262_CriandoTarefasAlunos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201609071151027_AlterandoTarefaAluno.cs" />
+    <Compile Include="Migrations\201609071151027_AlterandoTarefaAluno.Designer.cs">
+      <DependentUpon>201609071151027_AlterandoTarefaAluno.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Persistence\DataContext\StoreDataContext.cs" />
+    <Compile Include="Persistence\Map\AlunoMap.cs" />
+    <Compile Include="Persistence\Map\AlunoMateriaTurmaMap.cs" />
+    <Compile Include="Persistence\Map\MateriaMap.cs" />
+    <Compile Include="Persistence\Map\PaiMap.cs" />
+    <Compile Include="Persistence\Map\ProfessorMap.cs" />
+    <Compile Include="Persistence\Map\TarefaAlunoMap.cs" />
+    <Compile Include="Persistence\Map\TarefaMap.cs" />
+    <Compile Include="Persistence\Map\TurmaMap.cs" />
+    <Compile Include="Persistence\Map\TurmaMateriaMap.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Repositories\AlunoRepository.cs" />
+    <Compile Include="Repositories\PaiRepository.cs" />
+    <Compile Include="Repositories\ProfessorRepository.cs" />
+    <Compile Include="Repositories\RepositoryTurmaMateria.cs" />
+    <Compile Include="Repositories\TarefaRepository.cs" />
     <Compile Include="UnitOfWork.cs" />
   </ItemGroup>
   <ItemGroup>
@@ -59,8 +106,30 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="Persistence\Map\" />
-    <Folder Include="Repositories\" />
+    <EmbeddedResource Include="Migrations\201609070615305_ProfessorAndPai.resx">
+      <DependentUpon>201609070615305_ProfessorAndPai.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201609070726015_CriandoMateriaTurmaETurmaMateria.resx">
+      <DependentUpon>201609070726015_CriandoMateriaTurmaETurmaMateria.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201609070955080_CriandoAlunos.resx">
+      <DependentUpon>201609070955080_CriandoAlunos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201609071027001_CriandoAlunosMateriaTurma.resx">
+      <DependentUpon>201609071027001_CriandoAlunosMateriaTurma.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201609071109436_CriandoTarefa.resx">
+      <DependentUpon>201609071109436_CriandoTarefa.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201609071123116_AlterandoTarefa.resx">
+      <DependentUpon>201609071123116_AlterandoTarefa.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201609071131262_CriandoTarefasAlunos.resx">
+      <DependentUpon>201609071131262_CriandoTarefasAlunos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201609071151027_AlterandoTarefaAluno.resx">
+      <DependentUpon>201609071151027_AlterandoTarefaAluno.cs</DependentUpon>
+    </EmbeddedResource>
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\HDomain\HDomain.csproj">
